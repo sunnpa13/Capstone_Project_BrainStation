@@ -194,7 +194,9 @@ Country and Education also play a role in substance use tendencies, indicating p
 
 Key takeaways from our EDA Part 2 include:
 Inter-trait Dynamics: High Neuroticism is linked with lower scores in Openness, Agreeableness, Conscientiousness, and Extraversion. Conversely, high Extraversion is associated with lower scores in Openness, Agreeableness, and Conscientiousness.
+
 Positive Correlations: Openness correlates positively with both Conscientiousness and Agreeableness, while Agreeableness and Conscientiousness are also positively correlated, suggesting individuals high in one of these traits tend to score high in the others.
+
 Educational Attainment: Individuals with a Professional Certificate/Diploma exhibit higher drug consumption rates across various drug types compared to other educational groups.
 Age Group: Young adults aged 18-24, followed by those aged 25-34, show higher drug usage rates, indicating a significant correlation between younger age and increased drug consumption.
 
@@ -202,8 +204,10 @@ Age Group: Young adults aged 18-24, followed by those aged 25-34, show higher dr
 
 ## Preprocessing:
 I will continue doing preproecssing and creating heat map and analysis correlation and coefficeint between all the features in the second part of EDA.
+
 Handling Missing Data:
 Null or NA records have been systematically removed to ensure data integrity and reliability for analysis.
+
 Categorical Feature Transformation:
 Categorical features have been methodically converted into dummy variables, facilitating clearer interpretation and integration into analytical models.
 
@@ -213,7 +217,9 @@ logistic regression, decision trees.
 The provided results compare the performance of Logistic Regression and Decision Tree models in predicting heroin usage.
 
 Logistic Regression: For non-drug users (class 0), precision is 99%, recall is 98%, and F1-score is 98%. This indicates very few false positives and high accuracy in identifying non-users. For drug users (class 1), precision is 27%, recall is 50%, and F1-score is 35%. This shows a higher rate of false positives and a moderate ability to identify actual drug users. Overall accuracy is 97%.
+
 Decision Tree: For non-drug users (class 0), precision is 99%, recall is 98%, and F1-score is 98%. This mirrors the Logistic Regression model's performance in identifying non-users. For drug users (class 1), precision is 43%, recall is 38%, and F1-score is 40%. This indicates an improvement over the Logistic Regression model in identifying drug users, with lower false positives and better recall. Overall accuracy is 98%.
+
 Comparison: Both models perform similarly well in identifying non-drug users, with high precision, recall, and F1-scores around 98%. The Decision Tree model outperforms the Logistic Regression model in predicting drug users, showing higher precision (43% vs. 27%), recall (38% vs. 50%), and F1-score (40% vs. 35%). Despite these improvements, both models struggle with accurately identifying drug users compared to non-users, as indicated by lower precision and recall for class 1.
 
 Model Selection:
