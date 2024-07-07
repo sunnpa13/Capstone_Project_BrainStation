@@ -227,8 +227,25 @@ Logistic Regression: Better for applications where correctly identifying non-use
 Balancing Classes: Both models suffer from class imbalance, which significantly affects their ability to predict heroin users. Techniques such as oversampling the minority class (heroin users), undersampling the majority class (non-heroin users), or using synthetic data generation methods like SMOTE can help balance the dataset.
 
 ## Conclusion
+This analysis aimed to evaluate the performance of different machine learning models in predicting various drug usages, focusing on highly imbalanced data and identifying key contributing features. We utilized Logistic Regression, Decision Trees, and Random Forests with various SMOTE techniques to balance the dataset and improve the prediction of minority classes. The results highlighted the challenges and provided insights into the effectiveness of different models and feature contributions.
 
+The analysis underscores the complexities and challenges of predicting drug usage with imbalanced data. While overall accuracy remains high, the ability to predict minority classes (e.g., less common drug usage) is limited. By refining models and focusing on feature engineering, it is possible to achieve better-balanced performance and gain clearer insights into the factors influencing drug usage. The top contributing features, particularly related to education and age, provide valuable information for targeted interventions and policy-making.
 
+Top Contributing Features
+Education:
+University Degree: This feature significantly impacts the prediction of various drug usage, indicating that educational attainment plays a crucial role.
+Masters Degree: Higher education levels like a master's degree also contribute significantly, possibly suggesting socioeconomic factors related to drug usage.
+Age:
+This younger age group (youth) is often associated with higher drug usage rates, making it a critical predictor.
+
+Country:
+Country_UK: Country-specific factors significantly influence drug usage patterns, with the UK being a notable example.
+
+Recommendations and Next Steps
+Improving Minority Class Predictions: Implement advanced resampling techniques and ensemble methods to better predict minority classes.
+Feature Engineering: Explore additional features or transformations to enhance model performance and interpretability.
+Advanced Evaluation: Use precision-recall curves, ROC curves, and other metrics to comprehensively evaluate model performance on imbalanced data.
+Enhanced Visualization: Utilize sophisticated visualization techniques such as parallel coordinate plots, radar charts, and pairwise scatter plots to gain deeper insights into feature contributions and model performance.
 
 ### Built With
 
