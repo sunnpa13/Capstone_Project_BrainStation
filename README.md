@@ -231,12 +231,12 @@ This analysis aimed to evaluate the performance of different machine learning mo
 
 The analysis underscores the complexities and challenges of predicting drug usage with imbalanced data. While overall accuracy remains high, the ability to predict minority classes (e.g., less common drug usage) is limited. By refining models and focusing on feature engineering, it is possible to achieve better-balanced performance and gain clearer insights into the factors influencing drug usage. The top contributing features, particularly related to education and age, provide valuable information for targeted interventions and policy-making.
 
-Summary of Important Features:
-`Education and Socioeconomic Factors`: Higher education levels, such as having a university or master’s degree, can influence drug usage patterns, potentially indicating socioeconomic factors at play.
-`Age:` Younger age groups, particularly those aged 18-34, are significant predictors, highlighting the importance of age in drug usage trends.
-Country and Regional Variations: Country-specific factors, like residing in the UK or other countries, significantly impact drug usage patterns, suggesting regional differences in drug accessibility and cultural attitudes.
+### Summary of Important Features:
+**Education and Socioeconomic Factors** : Higher education levels, such as having a university or master’s degree, can influence drug usage patterns, potentially indicating socioeconomic factors at play.
+**Age:** Younger age groups, particularly those aged 18-34, are significant predictors, highlighting the importance of age in drug usage trends.
+**Country and Regional Variations:** Country-specific factors, like residing in the UK or other countries, significantly impact drug usage patterns, suggesting regional differences in drug accessibility and cultural attitudes.
 
-Personality traits, particularly impulsiveness, sensation-seeking, neuroticism, low conscientiousness, and openness to experience, are critical in predicting drug usage. These insights can inform targeted interventions, such as personality-focused prevention and treatment programs, to address substance abuse more effectively. By considering these personality types and significant demographic factors, policymakers and healthcare providers can develop more tailored and effective strategies to combat drug usage.
+Personality traits, particularly `impulsiveness, sensation-seeking, neuroticism, low conscientiousness, and openness to experience`, are critical in predicting drug usage. These insights can inform targeted interventions, such as personality-focused prevention and treatment programs, to address substance abuse more effectively. By considering these personality types and significant demographic factors, policymakers and healthcare providers can develop more tailored and effective strategies to combat drug usage.
 
 
 ### Built With
