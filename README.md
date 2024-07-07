@@ -231,21 +231,13 @@ This analysis aimed to evaluate the performance of different machine learning mo
 
 The analysis underscores the complexities and challenges of predicting drug usage with imbalanced data. While overall accuracy remains high, the ability to predict minority classes (e.g., less common drug usage) is limited. By refining models and focusing on feature engineering, it is possible to achieve better-balanced performance and gain clearer insights into the factors influencing drug usage. The top contributing features, particularly related to education and age, provide valuable information for targeted interventions and policy-making.
 
-Top Contributing Features
-Education:
-University Degree: This feature significantly impacts the prediction of various drug usage, indicating that educational attainment plays a crucial role.
-Masters Degree: Higher education levels like a master's degree also contribute significantly, possibly suggesting socioeconomic factors related to drug usage.
-Age:
-This younger age group (youth) is often associated with higher drug usage rates, making it a critical predictor.
+Summary of Important Features:
+`Education and Socioeconomic Factors`: Higher education levels, such as having a university or master’s degree, can influence drug usage patterns, potentially indicating socioeconomic factors at play.
+`Age:` Younger age groups, particularly those aged 18-34, are significant predictors, highlighting the importance of age in drug usage trends.
+Country and Regional Variations: Country-specific factors, like residing in the UK or other countries, significantly impact drug usage patterns, suggesting regional differences in drug accessibility and cultural attitudes.
 
-Country:
-Country_UK: Country-specific factors significantly influence drug usage patterns, with the UK being a notable example.
+Personality traits, particularly impulsiveness, sensation-seeking, neuroticism, low conscientiousness, and openness to experience, are critical in predicting drug usage. These insights can inform targeted interventions, such as personality-focused prevention and treatment programs, to address substance abuse more effectively. By considering these personality types and significant demographic factors, policymakers and healthcare providers can develop more tailored and effective strategies to combat drug usage.
 
-Recommendations and Next Steps
-Improving Minority Class Predictions: Implement advanced resampling techniques and ensemble methods to better predict minority classes.
-Feature Engineering: Explore additional features or transformations to enhance model performance and interpretability.
-Advanced Evaluation: Use precision-recall curves, ROC curves, and other metrics to comprehensively evaluate model performance on imbalanced data.
-Enhanced Visualization: Utilize sophisticated visualization techniques such as parallel coordinate plots, radar charts, and pairwise scatter plots to gain deeper insights into feature contributions and model performance.
 
 ### Built With
 
