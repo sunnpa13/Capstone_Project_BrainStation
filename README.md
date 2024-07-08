@@ -226,6 +226,9 @@ Model Selection:
 Logistic Regression: Better for applications where correctly identifying non-users is crucial, and missing some heroin users is acceptable. Decision Tree: Slightly better for identifying heroin users, though still not optimal, and might be considered if the cost of false positives is lower than false negatives.
 Balancing Classes: Both models suffer from class imbalance, which significantly affects their ability to predict heroin users. Techniques such as oversampling the minority class (heroin users), undersampling the majority class (non-heroin users), or using synthetic data generation methods like SMOTE can help balance the dataset.
 
+## Note: 
+'model' folder in github has all the notebooks containing the modeling for each drug as a target variable
+
 ## Conclusion
 This analysis aimed to evaluate the performance of different machine learning models in predicting various drug usages, focusing on highly imbalanced data and identifying key contributing features. We utilized Logistic Regression, Decision Trees, and Random Forests with various SMOTE techniques to balance the dataset and improve the prediction of minority classes. The results highlighted the challenges and provided insights into the effectiveness of different models and feature contributions.
 
