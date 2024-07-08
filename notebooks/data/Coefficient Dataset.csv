@@ -1,0 +1,701 @@
+﻿Features,coefficients,Target
+Age_45 - 54,0.088296,Heroin
+Age_55 - 64,0.144668,Heroin
+Country_Other,0.178166,Heroin
+Education_Doctorate Degree,0.206892,Heroin
+Country_UK,0.256459,Heroin
+Education_University Degree,0.440098,Heroin
+Alcohol,0.487551,Heroin
+Country_Australia,0.505567,Heroin
+Escore,0.524459,Heroin
+Ascore,0.526098,Heroin
+Age_65+,0.593266,Heroin
+Oscore,0.61455,Heroin
+Ecstasy,0.705176,Heroin
+Semer,0.771063,Heroin
+LSD,0.782079,Heroin
+Country_New Zealand,0.810375,Heroin
+Education_Left School at 17 years,0.812426,Heroin
+Cannabis,0.851859,Heroin
+Choc,0.855666,Heroin
+Impulsive,0.872552,Heroin
+Mushrooms,0.890095,Heroin
+Nscore,0.89473,Heroin
+Gender_Female,0.909547,Heroin
+Amyl,0.924263,Heroin
+Amphet,0.947788,Heroin
+Legalh,0.972905,Heroin
+Meth,1.004127,Heroin
+SS,1.023208,Heroin
+VSA,1.024026,Heroin
+Ketamine,1.071699,Heroin
+Gender_Male,1.099449,Heroin
+Education_Left School at 18 years,1.218385,Heroin
+Age_35 - 44,1.301601,Heroin
+Nicotine,1.314952,Heroin
+Education_Masters Degree,1.316855,Heroin
+Benzos,1.413592,Heroin
+Education_Left School Before 16 years,1.471495,Heroin
+Education_Professional Certificate/ Diploma,1.490638,Heroin
+"Education_Some College,No Certificate Or Degree",1.590769,Heroin
+Country_Republic of Ireland,1.657176,Heroin
+Cscore,1.684708,Heroin
+Country_Canada,1.800999,Heroin
+Caff,1.956651,Heroin
+Coke,2.023449,Heroin
+Crack,2.438727,Heroin
+Education_Left School at 16 years,2.488935,Heroin
+Age_18 - 24,3.710316,Heroin
+Age_25 - 34,4.394246,Heroin
+Country_USA,10.020977,Heroin
+Heroin,0,Heroin
+Oscore,0.013808,Crack
+Legalh,0.014836,Crack
+Education_Professional Certificate/ Diploma,0.03052,Crack
+Gender_Female,0.119736,Crack
+Age_18 - 24,0.147635,Crack
+Meth,0.195384,Crack
+Education_Left School at 18 years,0.215009,Crack
+Age_25 - 34,0.251412,Crack
+Mushrooms,0.276505,Crack
+Country_UK,0.347002,Crack
+Ecstasy,0.390418,Crack
+Amphet,0.400364,Crack
+VSA,0.470979,Crack
+Age_45 - 54,0.527065,Crack
+Cscore,0.638468,Crack
+Caff,0.77677,Crack
+Country_Other,0.895141,Crack
+Education_Left School at 16 years,0.91483,Crack
+Age_65+,0.928515,Crack
+Education_Left School at 17 years,0.933248,Crack
+Country_Australia,0.953483,Crack
+Education_Doctorate Degree,0.971054,Crack
+Education_Left School Before 16 years,0.994712,Crack
+Semer,1.000292,Crack
+Country_Republic of Ireland,1.001218,Crack
+Country_New Zealand,1.001866,Crack
+Age_55 - 64,1.004402,Crack
+Country_USA,1.094959,Crack
+Choc,1.41465,Crack
+"Education_Some College,No Certificate Or Degree",2.382902,Crack
+Education_University Degree,2.728312,Crack
+SS,2.856096,Crack
+Amyl,3.202422,Crack
+Ketamine,3.827712,Crack
+Benzos,4.1305,Crack
+Nicotine,4.285645,Crack
+Escore,5.976336,Crack
+Impulsive,7.744555,Crack
+Gender_Male,8.351734,Crack
+Education_Masters Degree,9.534971,Crack
+Heroin,11.532362,Crack
+Coke,12.180469,Crack
+Country_Canada,13.234635,Crack
+LSD,13.721965,Crack
+Ascore,14.667295,Crack
+Alcohol,20.075638,Crack
+Nscore,27.305731,Crack
+Age_35 - 44,79.105962,Crack
+Cannabis,176.266452,Crack
+Crack,0,Crack
+Oscore,0.649294,Coke
+Education_Professional Certificate/ Diploma,0.718287,Coke
+Legalh,0.778945,Coke
+Age_65+,0.789341,Coke
+Education_Left School at 17 years,0.818065,Coke
+Age_45 - 54,0.82152,Coke
+Country_USA,0.838842,Coke
+Country_New Zealand,0.880436,Coke
+Country_Australia,0.880584,Coke
+Gender_Female,0.906688,Coke
+Ketamine,0.913186,Coke
+Age_35 - 44,0.919554,Coke
+Education_Left School at 18 years,0.920135,Coke
+Ascore,0.973632,Coke
+Education_Left School at 16 years,0.980539,Coke
+Age_18 - 24,0.99415,Coke
+LSD,1.022078,Coke
+Education_Doctorate Degree,1.022278,Coke
+Impulsive,1.056486,Coke
+Education_University Degree,1.057731,Coke
+Country_Republic of Ireland,1.071031,Coke
+VSA,1.073108,Coke
+Mushrooms,1.087547,Coke
+Gender_Male,1.102915,Coke
+Country_Other,1.103131,Coke
+Country_UK,1.105096,Coke
+Choc,1.110365,Coke
+"Education_Some College,No Certificate Or Degree",1.120877,Coke
+Escore,1.136227,Coke
+Country_Canada,1.138141,Coke
+Cscore,1.142596,Coke
+Age_55 - 64,1.162919,Coke
+Meth,1.165092,Coke
+Education_Masters Degree,1.181908,Coke
+Nicotine,1.235796,Coke
+Caff,1.23988,Coke
+Age_25 - 34,1.263546,Coke
+Education_Left School Before 16 years,1.266363,Coke
+Nscore,1.279386,Coke
+Alcohol,1.327071,Coke
+Semer,1.342216,Coke
+Amyl,1.402162,Coke
+Amphet,1.409062,Coke
+Heroin,1.461577,Coke
+Crack,1.509576,Coke
+Benzos,1.541797,Coke
+SS,1.715863,Coke
+Cannabis,1.895187,Coke
+Ecstasy,2.099972,Coke
+Coke,0,Coke
+Country_UK,0.571183,Meth
+Education_Doctorate Degree,0.585648,Meth
+Age_45 - 54,0.734483,Meth
+Age_35 - 44,0.746252,Meth
+Ketamine,0.772024,Meth
+Country_New Zealand,0.792052,Meth
+Country_Republic of Ireland,0.799615,Meth
+Alcohol,0.804434,Meth
+Cannabis,0.8145,Meth
+Age_65+,0.818175,Meth
+Choc,0.824409,Meth
+Ecstasy,0.826704,Meth
+Education_Left School at 17 years,0.830758,Meth
+Semer,0.8485,Meth
+Cscore,0.863258,Meth
+Ascore,0.891227,Meth
+Country_Australia,0.891419,Meth
+Legalh,0.917169,Meth
+Gender_Female,0.927075,Meth
+Impulsive,0.931505,Meth
+LSD,0.93469,Meth
+Education_University Degree,0.947412,Meth
+Age_55 - 64,0.952183,Meth
+Education_Left School at 18 years,0.962569,Meth
+Escore,0.966793,Meth
+Country_Canada,0.97178,Meth
+Coke,0.974325,Meth
+Mushrooms,0.987346,Meth
+Nscore,1.004182,Meth
+Oscore,1.039131,Meth
+VSA,1.045574,Meth
+Education_Masters Degree,1.047344,Meth
+Education_Left School Before 16 years,1.050652,Meth
+Education_Left School at 16 years,1.057126,Meth
+Gender_Male,1.078661,Meth
+Amphet,1.100404,Meth
+Nicotine,1.104063,Meth
+Education_Professional Certificate/ Diploma,1.130008,Meth
+Amyl,1.170473,Meth
+Heroin,1.191945,Meth
+Crack,1.207896,Meth
+Age_25 - 34,1.221289,Meth
+"Education_Some College,No Certificate Or Degree",1.244694,Meth
+Country_Other,1.26759,Meth
+SS,1.314086,Meth
+Age_18 - 24,1.449143,Meth
+Caff,1.543926,Meth
+Country_USA,1.833204,Meth
+Benzos,2.464653,Meth
+Meth,0,Meth
+Country_UK,0.417809,LSD
+Age_55 - 64,0.52126,LSD
+Education_Left School at 17 years,0.688664,LSD
+Education_Doctorate Degree,0.693238,LSD
+Age_45 - 54,0.704128,LSD
+Impulsive,0.709697,LSD
+Cscore,0.724457,LSD
+Age_65+,0.734915,LSD
+Amyl,0.762484,LSD
+Amphet,0.777576,LSD
+Age_35 - 44,0.826368,LSD
+Semer,0.835423,LSD
+Country_Republic of Ireland,0.836517,LSD
+Country_New Zealand,0.838042,LSD
+Education_University Degree,0.846731,LSD
+Benzos,0.851526,LSD
+Nicotine,0.893529,LSD
+SS,0.895652,LSD
+Gender_Female,0.905953,LSD
+Meth,0.928289,LSD
+Heroin,0.929519,LSD
+Education_Left School at 18 years,0.935802,LSD
+Escore,1.004461,LSD
+Ascore,1.007379,LSD
+Education_Left School at 16 years,1.071492,LSD
+Coke,1.074089,LSD
+Education_Masters Degree,1.086068,LSD
+Country_Canada,1.089117,LSD
+Education_Left School Before 16 years,1.091397,LSD
+Gender_Male,1.103811,LSD
+Crack,1.128862,LSD
+Legalh,1.135978,LSD
+Nscore,1.145726,LSD
+Choc,1.155511,LSD
+Education_Professional Certificate/ Diploma,1.160144,LSD
+Age_25 - 34,1.169437,LSD
+VSA,1.247573,LSD
+Caff,1.262554,LSD
+"Education_Some College,No Certificate Or Degree",1.279939,LSD
+Alcohol,1.291949,LSD
+Cannabis,1.312151,LSD
+Ketamine,1.37694,LSD
+Oscore,1.456145,LSD
+Country_Other,1.476096,LSD
+Country_Australia,1.555019,LSD
+Country_USA,1.81213,LSD
+Mushrooms,1.81601,LSD
+Ecstasy,1.854633,LSD
+Age_18 - 24,1.934483,LSD
+LSD,0,LSD
+Country_UK,0.656814,Benzos
+LSD,0.742131,Benzos
+Age_18 - 24,0.768591,Benzos
+Education_Left School Before 16 years,0.814845,Benzos
+Country_Republic of Ireland,0.830025,Benzos
+SS,0.831024,Benzos
+Education_University Degree,0.89692,Benzos
+Country_Canada,0.900498,Benzos
+Education_Professional Certificate/ Diploma,0.912852,Benzos
+Crack,0.922452,Benzos
+Gender_Female,0.942242,Benzos
+Impulsive,0.944873,Benzos
+Education_Doctorate Degree,0.948254,Benzos
+Age_55 - 64,0.961887,Benzos
+Mushrooms,0.972882,Benzos
+Age_25 - 34,0.996668,Benzos
+Education_Masters Degree,0.996725,Benzos
+Country_Other,1.006824,Benzos
+Education_Left School at 16 years,1.011051,Benzos
+Ascore,1.01198,Benzos
+Choc,1.013872,Benzos
+Education_Left School at 18 years,1.032864,Benzos
+Ecstasy,1.051877,Benzos
+Gender_Male,1.061299,Benzos
+Cannabis,1.080609,Benzos
+Age_35 - 44,1.107677,Benzos
+Heroin,1.126722,Benzos
+Amyl,1.142404,Benzos
+Country_Australia,1.161233,Benzos
+Cscore,1.169778,Benzos
+Legalh,1.170845,Benzos
+Age_45 - 54,1.183524,Benzos
+Education_Left School at 17 years,1.202584,Benzos
+VSA,1.207671,Benzos
+"Education_Some College,No Certificate Or Degree",1.210297,Benzos
+Oscore,1.211115,Benzos
+Escore,1.262008,Benzos
+Alcohol,1.302573,Benzos
+Caff,1.337379,Benzos
+Age_65+,1.343074,Benzos
+Coke,1.364754,Benzos
+Ketamine,1.42967,Benzos
+Semer,1.435365,Benzos
+Country_USA,1.456085,Benzos
+Nicotine,1.503948,Benzos
+Amphet,1.623332,Benzos
+Meth,1.819258,Benzos
+Nscore,2.288159,Benzos
+Country_New Zealand,3.764579,Benzos
+Benzos,0,Benzos
+Country_UK,0.572789,Amphet
+Age_65+,0.60158,Amphet
+Cscore,0.706955,Amphet
+Age_55 - 64,0.72615,Amphet
+Country_Other,0.746223,Amphet
+Country_New Zealand,0.762634,Amphet
+Oscore,0.784156,Amphet
+Alcohol,0.802257,Amphet
+Education_Left School at 17 years,0.840353,Amphet
+LSD,0.843518,Amphet
+Education_Left School at 18 years,0.875517,Amphet
+Heroin,0.881259,Amphet
+Gender_Female,0.895376,Amphet
+Education_Left School Before 16 years,0.915199,Amphet
+Mushrooms,0.940629,Amphet
+"Education_Some College,No Certificate Or Degree",0.952112,Amphet
+VSA,0.955759,Amphet
+Education_University Degree,0.955859,Amphet
+Country_Republic of Ireland,0.957697,Amphet
+Age_25 - 34,0.973636,Amphet
+Education_Masters Degree,0.994561,Amphet
+Meth,1.008703,Amphet
+Ascore,1.01219,Amphet
+Age_35 - 44,1.024488,Amphet
+Impulsive,1.036776,Amphet
+Nicotine,1.065665,Amphet
+Crack,1.068067,Amphet
+SS,1.085605,Amphet
+Escore,1.088527,Amphet
+Education_Left School at 16 years,1.091411,Amphet
+Nscore,1.093795,Amphet
+Education_Doctorate Degree,1.108545,Amphet
+Gender_Male,1.116849,Amphet
+Amyl,1.136108,Amphet
+Age_45 - 54,1.157322,Amphet
+Choc,1.16546,Amphet
+Coke,1.167411,Amphet
+Age_18 - 24,1.169748,Amphet
+Country_Canada,1.181866,Amphet
+Education_Professional Certificate/ Diploma,1.195983,Amphet
+Ecstasy,1.253682,Amphet
+Semer,1.347087,Amphet
+Ketamine,1.355061,Amphet
+Country_Australia,1.385308,Amphet
+Cannabis,1.44414,Amphet
+Caff,1.570258,Amphet
+Legalh,1.581859,Amphet
+Country_USA,1.824002,Amphet
+Benzos,2.001028,Amphet
+Amphet,0,Amphet
+Country_USA,0.516189,Ketamine
+Age_35 - 44,0.535573,Ketamine
+Education_Doctorate Degree,0.537984,Ketamine
+Ascore,0.60457,Ketamine
+Impulsive,0.630165,Ketamine
+Age_55 - 64,0.655443,Ketamine
+Coke,0.702679,Ketamine
+Education_Left School at 16 years,0.708994,Ketamine
+Meth,0.757637,Ketamine
+SS,0.779986,Ketamine
+Gender_Female,0.785984,Ketamine
+Age_45 - 54,0.798655,Ketamine
+VSA,0.816781,Ketamine
+Education_Left School at 17 years,0.838742,Ketamine
+Country_New Zealand,0.84467,Ketamine
+Nscore,0.851718,Ketamine
+Education_Left School Before 16 years,0.862889,Ketamine
+Age_65+,0.871655,Ketamine
+Caff,0.887203,Ketamine
+Country_Republic of Ireland,0.887358,Ketamine
+Cscore,0.893085,Ketamine
+"Education_Some College,No Certificate Or Degree",0.95593,Ketamine
+Country_Other,0.956624,Ketamine
+Choc,1.003127,Ketamine
+Cannabis,1.036286,Ketamine
+Crack,1.041074,Ketamine
+Country_Canada,1.055193,Ketamine
+Escore,1.062692,Ketamine
+Country_Australia,1.120571,Ketamine
+Heroin,1.135137,Ketamine
+Mushrooms,1.16345,Ketamine
+Education_University Degree,1.180899,Ketamine
+Education_Left School at 18 years,1.199461,Ketamine
+Education_Professional Certificate/ Diploma,1.216818,Ketamine
+Gender_Male,1.272291,Ketamine
+Education_Masters Degree,1.276908,Ketamine
+Semer,1.339218,Ketamine
+Age_25 - 34,1.386247,Ketamine
+Amyl,1.390626,Ketamine
+Legalh,1.448106,Ketamine
+Alcohol,1.484987,Ketamine
+Benzos,1.595495,Ketamine
+Ecstasy,1.635351,Ketamine
+Country_UK,1.832337,Ketamine
+Oscore,1.85697,Ketamine
+Age_18 - 24,1.873521,Ketamine
+Amphet,1.89721,Ketamine
+LSD,1.900982,Ketamine
+Nicotine,2.048016,Ketamine
+Ketamine,0,Ketamine
+Education_University Degree,0.852674,Nicotine
+Cscore,0.862075,Nicotine
+Age_45 - 54,0.886299,Nicotine
+Mushrooms,0.898889,Nicotine
+Age_65+,0.923218,Nicotine
+Choc,0.925155,Nicotine
+Country_Australia,0.928984,Nicotine
+LSD,0.929301,Nicotine
+Gender_Female,0.930299,Nicotine
+Age_55 - 64,0.942977,Nicotine
+Education_Doctorate Degree,0.950166,Nicotine
+Heroin,0.952629,Nicotine
+Education_Left School at 18 years,0.953197,Nicotine
+Education_Masters Degree,0.953741,Nicotine
+Country_New Zealand,0.961366,Nicotine
+Country_Other,0.981815,Nicotine
+Meth,0.981868,Nicotine
+Country_USA,0.982854,Nicotine
+VSA,0.987443,Nicotine
+Legalh,1.000398,Nicotine
+Escore,1.007024,Nicotine
+Age_35 - 44,1.011163,Nicotine
+Amphet,1.012197,Nicotine
+Country_Canada,1.016371,Nicotine
+Alcohol,1.019323,Nicotine
+Ascore,1.026204,Nicotine
+Country_UK,1.026985,Nicotine
+Education_Professional Certificate/ Diploma,1.031863,Nicotine
+Age_25 - 34,1.047502,Nicotine
+Nscore,1.061876,Nicotine
+Education_Left School at 17 years,1.064698,Nicotine
+Oscore,1.064732,Nicotine
+Ecstasy,1.073922,Nicotine
+"Education_Some College,No Certificate Or Degree",1.074653,Nicotine
+Gender_Male,1.074923,Nicotine
+Age_18 - 24,1.090797,Nicotine
+Crack,1.0966,Nicotine
+Country_Republic of Ireland,1.103411,Nicotine
+Amyl,1.115134,Nicotine
+Coke,1.116968,Nicotine
+SS,1.130802,Nicotine
+Semer,1.133416,Nicotine
+Benzos,1.135671,Nicotine
+Ketamine,1.166849,Nicotine
+Impulsive,1.176734,Nicotine
+Education_Left School at 16 years,1.180154,Nicotine
+Education_Left School Before 16 years,1.200174,Nicotine
+Caff,1.277998,Nicotine
+Cannabis,1.90409,Nicotine
+Nicotine,0,Nicotine
+Age_55 - 64,0.444982,Ecstasy
+Education_Left School Before 16 years,0.576684,Ecstasy
+Meth,0.665949,Ecstasy
+Education_Left School at 16 years,0.739811,Ecstasy
+VSA,0.75183,Ecstasy
+Nscore,0.757734,Ecstasy
+Education_Left School at 17 years,0.766242,Ecstasy
+Age_65+,0.766482,Ecstasy
+Impulsive,0.773506,Ecstasy
+Cscore,0.795512,Ecstasy
+Caff,0.795757,Ecstasy
+Age_45 - 54,0.797571,Ecstasy
+Country_New Zealand,0.829538,Ecstasy
+Education_Professional Certificate/ Diploma,0.841701,Ecstasy
+Ascore,0.85872,Ecstasy
+Country_Other,0.934363,Ecstasy
+Country_UK,0.940095,Ecstasy
+Crack,0.944699,Ecstasy
+Age_35 - 44,0.958805,Ecstasy
+Mushrooms,0.975729,Ecstasy
+Gender_Female,0.984722,Ecstasy
+Country_USA,1.010192,Ecstasy
+Gender_Male,1.015515,Ecstasy
+Country_Canada,1.032156,Ecstasy
+Benzos,1.043917,Ecstasy
+Heroin,1.053655,Ecstasy
+SS,1.064315,Ecstasy
+Education_Left School at 18 years,1.068137,Ecstasy
+Education_Masters Degree,1.083811,Ecstasy
+Country_Republic of Ireland,1.090457,Ecstasy
+Education_University Degree,1.105365,Ecstasy
+Education_Doctorate Degree,1.116743,Ecstasy
+Age_25 - 34,1.175626,Ecstasy
+Amyl,1.181657,Ecstasy
+Oscore,1.192416,Ecstasy
+Escore,1.208421,Ecstasy
+Amphet,1.223026,Ecstasy
+Country_Australia,1.228443,Ecstasy
+Semer,1.247932,Ecstasy
+Alcohol,1.270906,Ecstasy
+Legalh,1.299004,Ecstasy
+"Education_Some College,No Certificate Or Degree",1.29992,Ecstasy
+Nicotine,1.355451,Ecstasy
+LSD,1.509545,Ecstasy
+Ketamine,1.521351,Ecstasy
+Choc,1.571028,Ecstasy
+Age_18 - 24,1.644093,Ecstasy
+Cannabis,1.805223,Ecstasy
+Coke,2.093225,Ecstasy
+Ecstasy,0,Ecstasy
+Education_Doctorate Degree,0.197154,Amyl
+LSD,0.228007,Amyl
+Age_55 - 64,0.249041,Amyl
+Nscore,0.361146,Amyl
+Education_Left School Before 16 years,0.405274,Amyl
+Country_Canada,0.445247,Amyl
+Heroin,0.477817,Amyl
+Age_45 - 54,0.510336,Amyl
+Cscore,0.580844,Amyl
+Age_65+,0.60646,Amyl
+Education_Left School at 17 years,0.654997,Amyl
+Country_USA,0.714353,Amyl
+Country_New Zealand,0.724781,Amyl
+Semer,0.757997,Amyl
+SS,0.816438,Amyl
+Country_Other,0.81833,Amyl
+Cannabis,0.839536,Amyl
+Education_Masters Degree,0.853666,Amyl
+Gender_Female,0.863282,Amyl
+Escore,0.871372,Amyl
+Choc,0.893028,Amyl
+Ascore,0.907067,Amyl
+Country_Republic of Ireland,0.908047,Amyl
+Crack,1.057348,Amyl
+Oscore,1.10054,Amyl
+VSA,1.114231,Amyl
+"Education_Some College,No Certificate Or Degree",1.125572,Amyl
+Amphet,1.137822,Amyl
+Impulsive,1.141547,Amyl
+Gender_Male,1.15837,Amyl
+Ecstasy,1.176629,Amyl
+Education_Left School at 18 years,1.280021,Amyl
+Meth,1.297597,Amyl
+Ketamine,1.306287,Amyl
+Age_35 - 44,1.35187,Amyl
+Age_18 - 24,1.424696,Amyl
+Education_University Degree,1.506937,Amyl
+Education_Professional Certificate/ Diploma,1.605454,Amyl
+Country_Australia,1.671878,Amyl
+Mushrooms,1.767322,Amyl
+Education_Left School at 16 years,1.773839,Amyl
+Country_UK,1.829877,Amyl
+Legalh,1.940871,Amyl
+Age_25 - 34,2.080258,Amyl
+Nicotine,2.121719,Amyl
+Coke,2.195773,Amyl
+Alcohol,2.26823,Amyl
+Benzos,2.626803,Amyl
+Caff,5.300137,Amyl
+Amyl,0,Amyl
+Crack,0.714151,Legalh
+Cscore,0.746494,Legalh
+Age_65+,0.762587,Legalh
+Education_Left School at 16 years,0.790378,Legalh
+Country_UK,0.793917,Legalh
+Age_45 - 54,0.80538,Legalh
+Alcohol,0.834304,Legalh
+Coke,0.860956,Legalh
+Gender_Female,0.869546,Legalh
+Heroin,0.872764,Legalh
+Education_Doctorate Degree,0.886011,Legalh
+Semer,0.886949,Legalh
+Education_Professional Certificate/ Diploma,0.902277,Legalh
+Ascore,0.919749,Legalh
+Age_25 - 34,0.923937,Legalh
+Meth,0.939179,Legalh
+Escore,0.939355,Legalh
+SS,0.939901,Legalh
+LSD,0.941504,Legalh
+Impulsive,0.966773,Legalh
+Country_Australia,0.966982,Legalh
+Age_55 - 64,0.993778,Legalh
+Country_Republic of Ireland,0.994847,Legalh
+Mushrooms,1.004579,Legalh
+VSA,1.006746,Legalh
+Education_University Degree,1.011813,Legalh
+Education_Left School Before 16 years,1.01426,Legalh
+Age_35 - 44,1.047318,Legalh
+Education_Masters Degree,1.05634,Legalh
+Benzos,1.074235,Legalh
+Country_USA,1.077486,Legalh
+"Education_Some College,No Certificate Or Degree",1.079142,Legalh
+Nscore,1.09224,Legalh
+Country_Other,1.101469,Legalh
+Nicotine,1.110072,Legalh
+Education_Left School at 17 years,1.120695,Legalh
+Gender_Male,1.150026,Legalh
+Ecstasy,1.179791,Legalh
+Education_Left School at 18 years,1.194402,Legalh
+Amyl,1.202466,Legalh
+Oscore,1.22242,Legalh
+Caff,1.232952,Legalh
+Ketamine,1.259762,Legalh
+Country_New Zealand,1.268972,Legalh
+Age_18 - 24,1.304042,Legalh
+Country_Canada,1.309208,Legalh
+Choc,1.416611,Legalh
+Amphet,1.556762,Legalh
+Cannabis,1.841003,Legalh
+Legalh,0,Legalh
+Age_45 - 54,0.129914,VSA
+Education_Left School at 17 years,0.32615,VSA
+Country_Canada,0.331739,VSA
+Education_Left School Before 16 years,0.334527,VSA
+Education_Professional Certificate/ Diploma,0.395396,VSA
+Crack,0.412758,VSA
+Education_Doctorate Degree,0.426553,VSA
+Age_55 - 64,0.534421,VSA
+Country_Other,0.545553,VSA
+Cscore,0.559247,VSA
+Ecstasy,0.578451,VSA
+Age_35 - 44,0.679059,VSA
+Nscore,0.695687,VSA
+Impulsive,0.699866,VSA
+Ketamine,0.754819,VSA
+Age_65+,0.778283,VSA
+Ascore,0.787998,VSA
+Amphet,0.798617,VSA
+Alcohol,0.810812,VSA
+Mushrooms,0.873905,VSA
+Nicotine,0.878294,VSA
+Semer,0.919326,VSA
+Gender_Male,0.983665,VSA
+Heroin,1.016573,VSA
+Gender_Female,1.016606,VSA
+Country_New Zealand,1.044233,VSA
+Choc,1.071676,VSA
+Oscore,1.07355,VSA
+Country_Australia,1.120699,VSA
+Education_Masters Degree,1.158539,VSA
+Country_USA,1.181359,VSA
+Escore,1.24293,VSA
+Coke,1.354177,VSA
+Cannabis,1.376291,VSA
+"Education_Some College,No Certificate Or Degree",1.443141,VSA
+Country_UK,1.545051,VSA
+Amyl,1.594751,VSA
+SS,1.665342,VSA
+Education_Left School at 16 years,1.768293,VSA
+Country_Republic of Ireland,1.768325,VSA
+Meth,1.839193,VSA
+Education_Left School at 18 years,1.94124,VSA
+Legalh,2.003462,VSA
+Education_University Degree,2.053674,VSA
+Age_25 - 34,2.319959,VSA
+LSD,2.44141,VSA
+Benzos,2.690264,VSA
+Caff,3.947749,VSA
+Age_18 - 24,4.3828,VSA
+VSA,0,VSA
+Country_UK,0.527106,Mushrooms
+Age_65+,0.573436,Mushrooms
+Education_Doctorate Degree,0.603359,Mushrooms
+Nscore,0.604871,Mushrooms
+Age_55 - 64,0.624792,Mushrooms
+Escore,0.64229,Mushrooms
+Crack,0.678386,Mushrooms
+Education_Professional Certificate/ Diploma,0.694678,Mushrooms
+Nicotine,0.746228,Mushrooms
+Country_New Zealand,0.792718,Mushrooms
+Semer,0.808377,Mushrooms
+Country_Republic of Ireland,0.815966,Mushrooms
+Cscore,0.837067,Mushrooms
+Choc,0.849613,Mushrooms
+Gender_Female,0.858417,Mushrooms
+VSA,0.871261,Mushrooms
+Age_25 - 34,0.9032,Mushrooms
+Education_Left School at 16 years,0.914327,Mushrooms
+Heroin,0.9148,Mushrooms
+Impulsive,0.917758,Mushrooms
+Benzos,0.965339,Mushrooms
+Meth,0.977042,Mushrooms
+Age_45 - 54,0.981302,Mushrooms
+Ecstasy,0.992399,Mushrooms
+Education_Left School at 17 years,0.997554,Mushrooms
+Education_University Degree,0.999213,Mushrooms
+Education_Left School Before 16 years,1.000093,Mushrooms
+Ascore,1.007829,Mushrooms
+SS,1.018086,Mushrooms
+Amyl,1.026612,Mushrooms
+Education_Left School at 18 years,1.079973,Mushrooms
+Country_Other,1.098112,Mushrooms
+Amphet,1.125077,Mushrooms
+Country_Australia,1.159518,Mushrooms
+Gender_Male,1.164935,Mushrooms
+Caff,1.180999,Mushrooms
+Legalh,1.204796,Mushrooms
+Education_Masters Degree,1.209343,Mushrooms
+Coke,1.213879,Mushrooms
+Age_18 - 24,1.243138,Mushrooms
+Country_Canada,1.25561,Mushrooms
+Age_35 - 44,1.322645,Mushrooms
+Alcohol,1.369791,Mushrooms
+Ketamine,1.410444,Mushrooms
+"Education_Some College,No Certificate Or Degree",1.496267,Mushrooms
+Oscore,1.525762,Mushrooms
+Country_USA,1.743107,Mushrooms
+LSD,1.986283,Mushrooms
+Cannabis,2.377744,Mushrooms
+Mushrooms,0,Mushrooms
