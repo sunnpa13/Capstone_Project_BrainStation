@@ -1,4 +1,4 @@
-# Drug Consumption Classification
+# Predicting Drug Consumption Patterns Using Machine Learning
 
 ### Project Overview
 
